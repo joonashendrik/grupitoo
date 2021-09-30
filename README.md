@@ -1,28 +1,22 @@
-## 
-#
-
-Liikmed:
-- Karl Erik
-- Kristiina
-- Ragnar
-- Kristjan
-- Joonas
-- Arno
-- Ulla
-- Lelet
-
-## Projekti nimi
 # Selveri soodukad
 
 ## Projekti eesmärk
- Leida kaupluse [Selver](https://www.selver.ee/) toiduvalikust kliendile sobivaim tootevalik.
+Leida kaupluse [Selver](https://www.selver.ee/) toiduainete tootevalikust kliendile sobivama hinnaga toode.
 
-## Töö käik
+## Grupi liikmed:
+- Karl Erik _TA-21_
+- Kristiina _TA-21_
+- Ragnar _TA-21_
+- Kristjan _TA-20_
+- Joonas _TAK-19_
+- Arno _TAK-19_
+- Ulla ?
+- Lelet _TA-20_
 
-### Kommunikatsioon
+## Kommunikatsioon
 Suhtluskanalid: **Slack**
 
-### Ülesanded
+## Ülesanded
 **1.päev**
 - Meeskonnaga tutvumine
 - Suhtluskanalite loomine
@@ -32,54 +26,57 @@ Suhtluskanalid: **Slack**
 - Kasutajaliidese loomine
 
 **2.päev**
-- Esitluse koostamine
+- Töö hetkeseisu ülevaatamine
+- Pooleliolevate asjade jätkamine
+- Esitluseks valmistumine
 - Esitluse esitamine
 
-### Meeskonnatöö
-Meie meeskond koosnes kaheksast liikmest. Ülesannete jagamisel lähtusime igaühe oskustest. 
-
-### Kes mida?
-- Peale meeskonnaga tutvumist panime töösse suhtluskanalid.
-- Selgitasime lähteülesannet, analüüsisime olemasolevat lahendust ja viisime läbi ajurünnaku uue lahenduse leidmiseks - seda tegime kõik koos.
+## Kes mida?
+Ülesannete jagamisel lähtusime igaühe oskustest.
+- Peale meeskonnaga tutvumist panime töösse suhtluskanali (Slack) ja git repository - Joonas
+- Lähteülesande analüüs, töökorralduse planeerimine - kõik koos
 - Prototüüp Figmas - Ulla
-- Toote ehitamine Visual Studio Code´is - Arno
-- Tegevuste dokumenteerimine, GitHub´is issuede lisamine ja administreerimine, kokkuvõte projektitööst - ...
+- Toote ehitamine Visual Studio Code´is - Arno, Kristjan
+- HTML - Lelet
+- README.md, GitHubis issuede lisamine ja administreerimine - Kristiina, ...
+- Kokkuvõte projektitööst - Joonas
 
 Toote prototüüp - [Figma](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
 
 Meie meeskonna toode - 
 
-### Kasutatud tarkvara:
-**Github** (projekti haldamine), **Visual Studio Code** (programmeerimine), **Figma**(prototüüpimine)
+## Kasutatud tarkvara:
+* **Github** (projekti haldamine)
+* **Visual Studio Code** (programmeerimine)
+* **Figma** (disain)
 
-### Küsimused tiimiliikmetele: 
+## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   * Karl Erik - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
-   * Kristiina - 
-   * Ragnar - 
-   * Kristjan  - 
-   * Joonas - 
-   * Arno - 
-   * Ulla - 
-   * Lelet - ei, kõik sobis.
+   * _Karl Erik_ - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
+   * _Kristiina_ - 
+   * _Ragnar_ - 
+   * _Kristjan_ - 
+   * _Joonas_ - 
+   * _Arno_ - 
+   * _Ulla_ - 
+   * _Lelet_ - ei, kõik sobis.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
-   * Kristiina - 
-   * Ragnar - 
-   * Kristjan  - 
-   * Joonas - 
-   * Arno - 
-   * Ulla - 
-   * Lelet - ikka tundub, et tiimitöö oskus paraneb iga korraga
+   * _Karl Erik_ - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
+   * _Kristiina_ - 
+   * _Ragnar_ - 
+   * _Kristjan_ - 
+   * _Joonas_ - 
+   * _Arno_ - 
+   * _Ulla_ - 
+   * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
-   * Kristiina - 
-   * Ragnar - 
-   * Kristjan  - 
-   * Joonas - 
-   * Arno - 
-   * Ulla - 
-   * Lelet - pigem oli tegu meeldetuletusega - github, html vormid, VS Code kasutamine
-  
+   * _Karl Erik_ - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
+   * _Kristiina_ - 
+   * _Ragnar_ - 
+   * _Kristjan_ - 
+   * _Joonas_ - 
+   * _Arno_ - 
+   * _Ulla_ - 
+   * _Lelet_ - pigem oli tegu meeldetuletusega - github, html vormid, VS Code kasutamine
