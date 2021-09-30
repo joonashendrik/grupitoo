@@ -52,4 +52,4 @@ Juba esimesel päeval tekkis meeskonnas hea töömeeleolu ja sidusus. Keegi ei j
 - Tegevuste dokumenteerimine, GitHub´is issuede lisamine ja administreerimine, kokkuvõte projektitööst
 
 ### Kasutatud tarkvara:
-**Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
+**Github** (projekti haldamine), **Visual Studio Code** (programmeerimine)
