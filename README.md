@@ -45,5 +45,9 @@ Meie meeskond koosnes kaheksast liikmest. Ülesannete jagamisel lähtusime igaü
 - Toote ehitamine Visual Studio Code´is - Arno
 - Tegevuste dokumenteerimine, GitHub´is issuede lisamine ja administreerimine, kokkuvõte projektitööst - ...
 
+Toote prototüüp - [Figma](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
+
+Meie meeskonna toode - 
+
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Visual Studio Code** (programmeerimine), **Figma**(prototüüpimine)
