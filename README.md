@@ -54,7 +54,7 @@ Meie meeskonna toode -
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * _Karl Erik_ - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
    * _Kristiina_ - Kuna tegu oli esimese projektiga, siis mitte. Arvan, et sain endale alustuseks just jõukohased ülesanded :wink:.
-   * _Ragnar_ - 
+   * _Ragnar_ - Ei, alustuseks sobis see hästi. Võibolla oleks tahtnud Figmaga rohkem tutvuda.
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
@@ -64,7 +64,7 @@ Meie meeskonna toode -
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * _Karl Erik_ - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
    * _Kristiina_ - Korralduslikuma poole pealt olen järgmisel korral kindlasti juba hulga targem!
-   * _Ragnar_ - 
+   * _Ragnar_ - Positiivne suhtumine
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
@@ -74,7 +74,7 @@ Meie meeskonna toode -
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * _Karl Erik_ - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
    * _Kristiina_ - README.md faili koostamine, GitHub keskkonnaga tutvumine, Terminaliga VSCsse git klooni tegemine.
-   * _Ragnar_ - 
+   * _Ragnar_ - Sain ettekujutuse kuidas Githubis projekte luuakse, mis töövahendeid selleks kasutatakse. VS Code, Figma, Ubuntu..
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
