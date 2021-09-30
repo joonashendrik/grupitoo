@@ -53,7 +53,7 @@ Meie meeskonna toode -
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * _Karl Erik_ - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
-   * _Kristiina_ - 
+   * _Kristiina_ - Kuna tegu oli esimese projektiga, siis mitte. Arvan, et sain endale alustuseks just jõukohased ülesanded :wink:
    * _Ragnar_ - 
    * _Kristjan_ - 
    * _Joonas_ - 
@@ -63,7 +63,7 @@ Meie meeskonna toode -
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * _Karl Erik_ - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
-   * _Kristiina_ - 
+   * _Kristiina_ - Korralduslikuma poole pealt olen järgmisel korral kindlasti juba hulga targem!
    * _Ragnar_ - 
    * _Kristjan_ - 
    * _Joonas_ - 
@@ -73,7 +73,7 @@ Meie meeskonna toode -
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * _Karl Erik_ - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
-   * _Kristiina_ - 
+   * _Kristiina_ - README.md faili koostamine, GitHub keskkonnaga tutvumine, Terminaliga VSCsse git klooni tegemine.
    * _Ragnar_ - 
    * _Kristjan_ - 
    * _Joonas_ - 
