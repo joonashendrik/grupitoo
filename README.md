@@ -61,7 +61,7 @@ Meie meeskonna toode -
    * Joonas - 
    * Arno - 
    * Ulla - 
-   * Lelet - 
+   * Lelet - ei, kõik sobis.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    * Karl Erik - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
@@ -71,7 +71,7 @@ Meie meeskonna toode -
    * Joonas - 
    * Arno - 
    * Ulla - 
-   * Lelet - 
+   * Lelet - ikka tundub, et tiimitöö oskus paraneb iga korraga
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    * Karl Erik - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
@@ -81,4 +81,5 @@ Meie meeskonna toode -
    * Joonas - 
    * Arno - 
    * Ulla - 
-   * Lelet - 
+   * Lelet - pigem oli tegu meeldetuletusega - github, html vormid, VS Code kasutamine
+  
