@@ -51,3 +51,34 @@ Meie meeskonna toode -
 
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Visual Studio Code** (programmeerimine), **Figma**(prototüüpimine)
+
+### Küsimused tiimiliikmetele: 
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+   * Karl Erik - 
+   * Kristiina - 
+   * Ragnar - 
+   * Kristjan  - 
+   * Joonas - 
+   * Arno - 
+   * Ulla - 
+   * Lelet - 
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+   * Karl Erik - 
+   * Kristiina - 
+   * Ragnar - 
+   * Kristjan  - 
+   * Joonas - 
+   * Arno - 
+   * Ulla - 
+   * Lelet - 
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+   * Karl Erik - 
+   * Kristiina - 
+   * Ragnar - 
+   * Kristjan  - 
+   * Joonas - 
+   * Arno - 
+   * Ulla - 
+   * Lelet - 
