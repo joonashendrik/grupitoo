@@ -54,7 +54,7 @@ Meie meeskonna toode -
 
 ### Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   * Karl Erik - 
+   * Karl Erik - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
    * Kristiina - 
    * Ragnar - 
    * Kristjan  - 
@@ -64,7 +64,7 @@ Meie meeskonna toode -
    * Lelet - 
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - 
+   * Karl Erik - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
    * Kristiina - 
    * Ragnar - 
    * Kristjan  - 
@@ -74,7 +74,7 @@ Meie meeskonna toode -
    * Lelet - 
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-   * Karl Erik - 
+   * Karl Erik - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
    * Kristiina - 
    * Ragnar - 
    * Kristjan  - 
