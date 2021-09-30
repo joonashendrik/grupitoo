@@ -2,19 +2,20 @@
 # AsusDellHP
 
 Liikmed:
-- Erol
+- Karl Erik
+- Kristiina
+- Ragnar
+- Kristjan
+- Joonas
 - Arno
-- Kevin
-- Carlos
-- Eva
-- Tiiu
-- Marcus
+- Ulla
+- Lelet
 
 ## Projekti nimi
-# TUNNIPLAAN
+# GRUPP 3
 
 ## Projekti eesmärk
-Luua prototüüp uuest kasutajasõbralikust tunniplaanist. 
+ 
 
 ## Töö käik
 
