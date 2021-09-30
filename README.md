@@ -46,4 +46,4 @@ Meie meeskond koosnes kaheksast liikmest. Ülesannete jagamisel lähtusime igaü
 - Tegevuste dokumenteerimine, GitHub´is issuede lisamine ja administreerimine, kokkuvõte projektitööst - ...
 
 ### Kasutatud tarkvara:
-**Github** (projekti haldamine), **Visual Studio Code** (programmeerimine)
+**Github** (projekti haldamine), **Visual Studio Code** (programmeerimine), **Figma**(prototüüpimine)
