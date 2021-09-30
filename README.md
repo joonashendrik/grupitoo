@@ -27,18 +27,18 @@ Suhtluskanalid: **Slack**
 
 **2.päev**
 - Töö hetkeseisu ülevaatamine
-- Pooleliolevate asjade jätkamine
+- Pooleliolevate tööde lahendamine
 - Esitluseks valmistumine
 - Esitluse esitamine
 
-## Kes mida?
+## Tegevuste jaotus
 Ülesannete jagamisel lähtusime igaühe oskustest.
 - Peale meeskonnaga tutvumist panime töösse suhtluskanali (Slack) ja git repository - Joonas
 - Lähteülesande analüüs, töökorralduse planeerimine - kõik koos
 - Prototüüp Figmas - Ulla
 - Toote ehitamine Visual Studio Code´is - Arno, Kristjan
 - HTML - Lelet
-- README.md, GitHubis issuede lisamine ja administreerimine - Kristiina, ...
+- README.md, GitHubis issuede lisamine ja administreerimine - Kristiina
 - Kokkuvõte projektitööst - Joonas
 
 Toote prototüüp - [Figma](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
@@ -53,7 +53,7 @@ Meie meeskonna toode -
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * _Karl Erik_ - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
-   * _Kristiina_ - Kuna tegu oli esimese projektiga, siis mitte. Arvan, et sain endale alustuseks just jõukohased ülesanded :wink:
+   * _Kristiina_ - Kuna tegu oli esimese projektiga, siis mitte. Arvan, et sain endale alustuseks just jõukohased ülesanded :wink:.
    * _Ragnar_ - 
    * _Kristjan_ - 
    * _Joonas_ - 
