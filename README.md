@@ -35,7 +35,7 @@ Suhtluskanalid: **Slack**
 Ülesannete jagamisel lähtusime igaühe oskustest.
 - Peale meeskonnaga tutvumist panime töösse suhtluskanali (Slack) ja git repository - Joonas
 - Lähteülesande analüüs, töökorralduse planeerimine - kõik koos
-- Prototüüp Figmas - Ulla
+- Prototüüp Figmas - Ulla, Ragnar, Karl Erik
 - Tootearendus VSCs Pythoniga - Arno, Kristjan
 - HTML - Lelet
 - README.md, GitHubis issuede lisamine ja administreerimine - Kristiina
@@ -58,7 +58,7 @@ Meie meeskonna toode -
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
-   * _Ulla_ - Ei, olen om rolliga väga rahul.
+   * _Ulla_ - Ei, olen oma rolliga väga rahul.
    * _Lelet_ - ei, kõik sobis.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
