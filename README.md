@@ -78,7 +78,7 @@ Meie meeskonna toode -
    * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-   * _Karl Erik_ - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis.
+   * _Karl Erik_ - Kuidas UBUNTU terminali loodud kausta kopeerida githubi ülesse laetud kood ja siis see läbi terminali avada VSCode programmis. Githubi keskonna kasutus. 
    * _Kristiina_ - README.md faili koostamine, GitHub keskkonnaga tutvumine, Terminaliga VSCsse git klooni tegemine.
    * _Ragnar_ - Sain ettekujutuse kuidas Githubis projekte luuakse, mis töövahendeid selleks kasutatakse. VS Code, Figma, Ubuntu..
    * _Kristjan_ - 
