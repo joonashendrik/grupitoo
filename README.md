@@ -47,7 +47,7 @@ Toote prototüüp - [Figma töölaud](https://www.figma.com/file/3YbFA9gRq1baffo
 Meie meeskonna toode - 
 
 ![Pilt 1](https://i.imgur.com/5OLWyXR.jpeg)
-![Pilt 1](https://imgur.com/JbOLSyQ)
+![Pilt 1](https://imgur.com/JbOLSyQ.jpeg)
 ![Pilt 2](https://i.imgur.com/yk9nTfK.jpeg)
 
 
