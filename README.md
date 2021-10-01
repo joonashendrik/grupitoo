@@ -10,7 +10,7 @@ Leida kaupluse [Selver](https://www.selver.ee/) toiduainete tootevalikust kliend
 - Kristjan _TA-20_
 - Joonas _TAK-19_
 - Arno _TAK-19_
-- Ulla ?
+- Ulla _KKG-21T_
 - Lelet _TA-20_
 
 ## Kommunikatsioon
@@ -58,7 +58,7 @@ Meie meeskonna toode -
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
-   * _Ulla_ - 
+   * _Ulla_ - Ei, olen om rolliga väga rahul.
    * _Lelet_ - ei, kõik sobis.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
@@ -68,7 +68,7 @@ Meie meeskonna toode -
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
-   * _Ulla_ - 
+   * _Ulla_ - Tiimitöö arendajatega
    * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
