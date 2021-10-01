@@ -38,7 +38,7 @@ Suhtluskanalid: **Slack**
 - Prototüüp Figmas - Ulla, Ragnar, Karl Erik
 - Tootearendus VSCs Pythoniga - Arno, Kristjan
 - HTML - Lelet
-- README.md, GitHubis issuede lisamine ja administreerimine - Kristiina
+- README.md - Kristiina
 - Kokkuvõte projektitööst - Joonas
 
 Toote prototüüp - [Figma töölaud](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
