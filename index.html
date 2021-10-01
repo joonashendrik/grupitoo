@@ -6,12 +6,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Soodushinna otsing</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel="stylesheet" type="text/css"  />
+    <style>
+        body {
+            font-family: 'Montserrat';font-size: 22px;
+        }
+        h1 {
+    color: #FCA311;
+}
+body {
+    color: #FCA311;
+    background-color: #14213D;
+}
+input {
+   background-color: #14213D;
+   margin: 1rem 1rem 2rem 0rem;
+   padding: 1rem 1rem 1rem 1rem;
+   border-color: #FFFFFF;
+   border-radius: 15px;
+}
+::placeholder {
+    color: #FFFFFF;
+  }
+input[type="submit"] {
+    background-color: #FCA311;
+    color: #FFFFFF;
+}
+        </style>
 </head>
 
 <body>
     <h1>Soovitud hinnaga toote otsing</h1>
-    <form name="search" action="/pot.py" method="get">
+    <form name="search" action="/pot.py" method="get" >
         <label for="product">TOOTE NIMETUS: </label><br>
         <input type="text" id="product" name="product" placeholder="mannavaht"><br>
         <br>
