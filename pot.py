@@ -14,7 +14,7 @@ price_list = []
 for food_el in food_elements:
     #print(food_el)
     food_name = food_el.find("h3").string.lower()
-    if "filee" in food_name:
+    if "lest" in food_name:
         #print(food_name)
         #print(food_el.find("div", class_="ProductPrice"))
         if len(food_el.find("div", class_="ProductPrice")):
