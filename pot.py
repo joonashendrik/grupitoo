@@ -16,9 +16,10 @@ for food_el in food_elements:
     food_name = food_el.find("h3").string.lower()
     if "filee" in food_name:
         #print(food_name)
-        print(food_el.find("div", class_="ProductPrice"))
-        if len(food_el.find_parents("div", class_="ProductPrice__unit-price")) == 1:
-            price = food_el.find_parents("div", class_="ProductPrice__unit-price")[0].find("div").contents[-1]
+        #print(food_el.find("div", class_="ProductPrice"))
+        if len(food_el.find("div", class_="ProductPrice")):
+            #print(food_el.find("div", class_="ProductPrice"))
+            price = food_el.find("div", class_="ProductPrice").find("span").contents[0]
             price_list.append([price, food_name])
-
+            #print(price)
 print(price_list)
