@@ -65,7 +65,7 @@ Meie meeskonna toode -
    * _Kristiina_ - Kuna tegu oli esimese projektiga, siis mitte. Arvan, et sain endale alustuseks just jõukohased ülesanded :wink:.
    * _Ragnar_ - Ei, alustuseks sobis see hästi. 
    * _Kristjan_ - 
-   * _Joonas_ - 
+   * _Joonas_ - Eip, kõik sobis ja tööd oli vähe
    * _Arno_ - Ei olekes soovinud midagi muud teha
    * _Ulla_ - Ei, olen oma rolliga väga rahul.
    * _Lelet_ - ei, kõik sobis.
@@ -75,7 +75,7 @@ Meie meeskonna toode -
    * _Kristiina_ - Korralduslikuma poole pealt olen järgmisel korral kindlasti juba hulga targem!
    * _Ragnar_ - Positiivne suhtumine
    * _Kristjan_ - 
-   * _Joonas_ - Ja
+   * _Joonas_ - Tiimitöö ikkagi
    * _Arno_ - Tiimiga suhtlema
    * _Ulla_ - Tiimitöö, arendajatega ühes keeles rääkimine
    * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
