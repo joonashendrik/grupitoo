@@ -62,7 +62,7 @@ Meie meeskonna toode -
    * _Lelet_ - ei, kõik sobis.
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-   * _Karl Erik_ - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. 
+   * _Karl Erik_ - Tutvusin figma disainiprogrammiga, sain aimu VSCode programmi kasutusest, tegin algust pythoniga tutvumisega. Tiimitöö ja suhtlusoskuse arenadamine. 
    * _Kristiina_ - Korralduslikuma poole pealt olen järgmisel korral kindlasti juba hulga targem!
    * _Ragnar_ - Positiivne suhtumine
    * _Kristjan_ - 
