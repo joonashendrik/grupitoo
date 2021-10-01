@@ -54,7 +54,7 @@ Meie meeskonna toode -
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
    * _Karl Erik_ - Oleksin soovinud osaleda koodi kirjutamises, aga kahjuks jäi siinkohal oskustest puudu.
    * _Kristiina_ - Kuna tegu oli esimese projektiga, siis mitte. Arvan, et sain endale alustuseks just jõukohased ülesanded :wink:.
-   * _Ragnar_ - Ei, alustuseks sobis see hästi. Võibolla oleks tahtnud Figmaga rohkem tutvuda.
+   * _Ragnar_ - Ei, alustuseks sobis see hästi. 
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - 
