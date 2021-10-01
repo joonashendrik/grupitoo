@@ -41,7 +41,8 @@ Suhtluskanalid: **Slack**
 - README.md, GitHubis issuede lisamine ja administreerimine - Kristiina
 - Kokkuvõte projektitööst - Joonas
 
-Toote prototüüp - [Figma](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
+Toote prototüüp - [Figma töölaud](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
+                  [Figma prototüüp](https://www.figma.com/proto/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=35%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=35%3A27&show-proto-sidebar=1)
 
 Meie meeskonna toode - 
 
@@ -68,7 +69,7 @@ Meie meeskonna toode -
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - Tiimiga suhtlema
-   * _Ulla_ - Tiimitöö arendajatega
+   * _Ulla_ - Tiimitöö, arendajatega ühes keeles rääkimine
    * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
@@ -78,5 +79,5 @@ Meie meeskonna toode -
    * _Kristjan_ - 
    * _Joonas_ - 
    * _Arno_ - Õppisin rohkem pythonit
-   * _Ulla_ - 
+   * _Ulla_ - Õppisin üldisemalt arendusprotsessi kui sellise kohta.
    * _Lelet_ - pigem oli tegu meeldetuletusega - github, html vormid, VS Code kasutamine
