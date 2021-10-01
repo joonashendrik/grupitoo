@@ -50,7 +50,7 @@ Meie meeskonna toode -
 ![Pilt 1](https://imgur.com/JbOLSyQ.jpeg)
 ![Pilt 2](https://i.imgur.com/yk9nTfK.jpeg)
 ![Pilt 4](https://i.imgur.com/xGoUuR8.jpeg)
-![Pilt 4](https://imgur.com/lnd6jIf)
+![Pilt 4](https://imgur.com/lnd6jIf.jpeg)
 
 
 
