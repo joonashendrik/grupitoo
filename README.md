@@ -57,7 +57,7 @@ Meie meeskonna toode -
    * _Ragnar_ - Ei, alustuseks sobis see hästi. 
    * _Kristjan_ - 
    * _Joonas_ - 
-   * _Arno_ - 
+   * _Arno_ - Ei olekes soovinud midagi muud teha
    * _Ulla_ - Ei, olen oma rolliga väga rahul.
    * _Lelet_ - ei, kõik sobis.
 
@@ -67,7 +67,7 @@ Meie meeskonna toode -
    * _Ragnar_ - Positiivne suhtumine
    * _Kristjan_ - 
    * _Joonas_ - 
-   * _Arno_ - 
+   * _Arno_ - Tiimiga suhtlema
    * _Ulla_ - Tiimitöö arendajatega
    * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
 
@@ -77,6 +77,6 @@ Meie meeskonna toode -
    * _Ragnar_ - Sain ettekujutuse kuidas Githubis projekte luuakse, mis töövahendeid selleks kasutatakse. VS Code, Figma, Ubuntu..
    * _Kristjan_ - 
    * _Joonas_ - 
-   * _Arno_ - 
+   * _Arno_ - Õppisin rohkem pythonit
    * _Ulla_ - 
    * _Lelet_ - pigem oli tegu meeldetuletusega - github, html vormid, VS Code kasutamine
