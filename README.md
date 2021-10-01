@@ -36,7 +36,7 @@ Suhtluskanalid: **Slack**
 - Peale meeskonnaga tutvumist panime töösse suhtluskanali (Slack) ja git repository - Joonas
 - Lähteülesande analüüs, töökorralduse planeerimine - kõik koos
 - Prototüüp Figmas - Ulla, Ragnar, Karl Erik
-- Tootearendus VSCs Pythoniga - Arno, Kristjan
+- Tootearendus VSCs Pythoniga - Arno, Kristjan, Lelet
 - HTML - Lelet
 - README.md - Kristiina
 - Kokkuvõte projektitööst - Joonas
