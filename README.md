@@ -47,7 +47,7 @@ Toote prototüüp - [Figma töölaud](https://www.figma.com/file/3YbFA9gRq1baffo
 Meie meeskonna toode - 
 
 ![Pilt 1](https://i.imgur.com/5OLWyXR.jpeg)
-![Pilt 2](https://imgur.com/JbOLSyQ.jpeg)
+![Pilt 1](https://imgur.com/JbOLSyQ)
 
 
 
@@ -72,7 +72,7 @@ Meie meeskonna toode -
    * _Kristiina_ - Korralduslikuma poole pealt olen järgmisel korral kindlasti juba hulga targem!
    * _Ragnar_ - Positiivne suhtumine
    * _Kristjan_ - 
-   * _Joonas_ - 
+   * _Joonas_ - Ja
    * _Arno_ - Tiimiga suhtlema
    * _Ulla_ - Tiimitöö, arendajatega ühes keeles rääkimine
    * _Lelet_ - ikka tundub, et tiimitöö oskus paraneb iga korraga
@@ -82,7 +82,7 @@ Meie meeskonna toode -
    * _Kristiina_ - README.md faili koostamine, GitHub keskkonnaga tutvumine, Terminaliga VSCsse git klooni tegemine.
    * _Ragnar_ - Sain ettekujutuse kuidas Githubis projekte luuakse, mis töövahendeid selleks kasutatakse. VS Code, Figma, Ubuntu..
    * _Kristjan_ - 
-   * _Joonas_ - 
+   * _Joonas_ - Sain rohkem Githubbist ja Pythonist teada
    * _Arno_ - Õppisin rohkem pythonit
    * _Ulla_ - Õppisin üldisemalt arendusprotsessi kui sellise kohta.
    * _Lelet_ - pigem oli tegu meeldetuletusega - github, html vormid, VS Code kasutamine
