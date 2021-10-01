@@ -46,6 +46,10 @@ Toote prototüüp - [Figma töölaud](https://www.figma.com/file/3YbFA9gRq1baffo
 
 Meie meeskonna toode - 
 
+![Pilt 1](https://i.imgur.com/5OLWyXR.jpeg)
+
+
+
 ## Kasutatud tarkvara:
 * **Github** (projekti haldamine)
 * **Visual Studio Code** (programmeerimine)
