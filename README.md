@@ -44,7 +44,7 @@ Suhtluskanalid: **Slack**
 Toote prototüüp - [Figma töölaud](https://www.figma.com/file/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=0%3A1)
                   [Figma prototüüp](https://www.figma.com/proto/3YbFA9gRq1baffoq2z1Ks3/Selveri-soodukad?node-id=35%3A27&scaling=scale-down&page-id=0%3A1&starting-point-node-id=35%3A27&show-proto-sidebar=1)
 
-Meie meeskonna toode - 
+ 
 
 ![Pilt 1](https://i.imgur.com/5OLWyXR.jpeg)
 ![Pilt 1](https://imgur.com/JbOLSyQ.jpeg)
