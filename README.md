@@ -48,7 +48,7 @@ Meie meeskonna toode -
 
 ![Pilt 1](https://i.imgur.com/5OLWyXR.jpeg)
 ![Pilt 1](https://imgur.com/JbOLSyQ)
-
+![Pilt 2](https://i.imgur.com/yk9nTfK.jpeg)
 
 
 ## Kasutatud tarkvara:
