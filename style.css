@@ -7,11 +7,15 @@ body {
 }
 input {
    background-color: #14213D;
-   margin: 2rem 1rem 2rem 1rem;
+   margin: 1rem 1rem 2rem 0rem;
+   padding: 1rem 1rem 1rem 1rem;
+   border-color: #FFFFFF;
+   border-radius: 15px;
 }
 ::placeholder {
     color: #FFFFFF;
   }
 input[type="submit"] {
+    background-color: #FCA311;
     color: #FFFFFF;
 }
