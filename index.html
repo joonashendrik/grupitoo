@@ -5,22 +5,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Soodushinna otsing</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
     <h1>Soovitud hinnaga toote otsing</h1>
     <form name="search" action="/pot.py" method="get">
-        <label for="product">Sisesta otsitav toode: </label><br>
+        <label for="product">TOOTE NIMETUS: </label><br>
         <input type="text" id="product" name="product" placeholder="mannavaht"><br>
         <br>
-        <label for="hind">Sisesta hinna ülemine piirmäär: </label><br>
+        <label for="hind">MAX HIND: </label><br>
         <input type=number id="hind" name="hind" placeholder="00.00 (eralda punktiga)" /><br>
         <br>
-        <label for="email">Sisesta e-mail, kuhu teateid soovid saada: </label><br>
+        <label for="email">E-POST: </label><br>
         <input type=email id="email" name="email" placeholder="keegi@kuskil.ee" /><br>
         <br>
-        <input type="submit" value="Saada">
+        <input type="submit" value="TELLI TEAVITUS E-MAILILE">
     </form>
 </body>
 
